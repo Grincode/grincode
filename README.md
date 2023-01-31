@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<h align="center">Programming Languages</h3>
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </p>
 
-<h2 align="center">Github Stats:<h2>
+<h3 align="center">Github Stats:<h3>
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grincode&theme=ocean_dark&card_width=450em)](https://github.com/grincode/grincode/github-readme-stats"/></td>
