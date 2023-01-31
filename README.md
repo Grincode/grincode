@@ -7,7 +7,7 @@
 ---
 
 <h3 align="center">Stack:</h3>
-https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 
 
 <table>
