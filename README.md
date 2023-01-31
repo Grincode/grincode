@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </p>
 
-
+<h1 align="center">Github Stats:<h1>
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grincode&theme=ocean_dark&card_width=450em)](https://github.com/grincode/grincode/github-readme-stats"/></td>
