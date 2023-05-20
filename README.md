@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Juan</h1>
 <h3 align="left">a full-stack web developer from Argentina</h3>
 
-<h4 align="left">- 🌱 I’m currently learning **React.js Node.j and UX/UI**</h4>
+<h4 align="left">- 🌱 I’m currently learning **Java and Node.js**</h4>
 
 
 ---
