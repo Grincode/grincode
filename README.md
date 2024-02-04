@@ -71,7 +71,7 @@
 </table>
 
 <!--SHOW_DAYS_OF_WEEK:waka-->
-
+LOCALE
 <!--SHOW_DAYS_OF_WEEK:waka-->
 
 
