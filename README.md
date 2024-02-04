@@ -70,6 +70,10 @@
   </tr>
 </table>
 
+<!--SHOW_DAYS_OF_WEEK:waka-->
+
+<!--SHOW_DAYS_OF_WEEK:waka-->
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
