@@ -76,6 +76,13 @@
 
 <!--SHOW_DAYS_OF_WEEK:waka-->
 
+<a href="https://github.com/SrGobi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SrGobi&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/SrGobi/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SrGobi&repo=convoychat" />
+</a>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
