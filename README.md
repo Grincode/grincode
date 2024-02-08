@@ -71,9 +71,7 @@
 </table>
 
 <!--SHOW_DAYS_OF_WEEK:waka-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grincode&repo=github-readme-stats)](https://github.com/grincode/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrGobi&repo=github-readme-stats)](https://github.com/SrGobi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grincode)](https://github.com/Grincode/github-readme-stats)
 
 <!--SHOW_DAYS_OF_WEEK:waka-->
 
