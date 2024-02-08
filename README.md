@@ -1,7 +1,7 @@
+
+<img src="https://media.licdn.com/dms/image/D4D16AQElYxxUE74Xvg/profile-displaybackgroundimage-shrink_350_1400/0/1706134391484?e=1712793600&v=beta&t=Mljh_OBPcISF2982FEhB0ItKqf6Tif7X1EsY0qFgE6w">
 <h1 align="left">Hi 👋, I'm Juan</h1>
 <h3 align="left">a full-stack web developer from Argentina</h3>
-<img src="https://media.licdn.com/dms/image/D4D16AQElYxxUE74Xvg/profile-displaybackgroundimage-shrink_350_1400/0/1706134391484?e=1712793600&v=beta&t=Mljh_OBPcISF2982FEhB0ItKqf6Tif7X1EsY0qFgE6w">
-
 <h4 align="left">- 🌱 I’m currently learning **Java and Node.js**</h4>
 
 
