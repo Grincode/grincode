@@ -70,13 +70,13 @@
 
   </tr>
 </table>
-<p align="center">
+
 <!--SHOW_DAYS_OF_WEEK:waka-->
-[![SrGobi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gringodev&theme=ocean_dark&card_width=450em)](https://github.com/Gringodev/github-readme-stats)
+[![Grincode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gringodev&theme=ocean_dark&card_width=450em)](https://github.com/Gringodev/github-readme-stats)
 
 
 <!--SHOW_DAYS_OF_WEEK:waka-->
-</p>
+
 
 
 <h3 align="center">Connect with me:</h3>
