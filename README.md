@@ -73,11 +73,11 @@
 </table>
 
 ## My WakaTime Coding Activity
-
-<img src="https://github.com/Grincode/Grincode/blob/main/images/stat.svg" alt="Gringodev WakaTime Activity"/>
-
 <!--SHOW_DAYS_OF_WEEK:waka-->
 [![Grincode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8)](https://github.com/Gringodev/github-readme-stats)
+[![Grincode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8)](https://github.com/Gringodev/github-readme-stats)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gringodev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--SHOW_DAYS_OF_WEEK:waka-->
