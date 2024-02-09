@@ -67,7 +67,7 @@
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grincode&theme=ocean_dark&card_width=450em)](https://github.com/grincode/grincode/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=grincode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=ocean_dark&hide_stars=false" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=grincode&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=ocean_dark&hide_stars=false" /></td>
 
   </tr>
 </table>
