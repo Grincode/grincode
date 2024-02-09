@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-## My WakaTime Coding Activity
+<h3 align="left">My WakaTime Coding Activity<h3>
 
 [![Grincode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8)](https://github.com/Gringodev/github-readme-stats)
 
