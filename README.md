@@ -80,7 +80,7 @@
 SHOW_LINES_OF_CODE
 
 <!--SHOW_DAYS_OF_WEEK:waka-->
-
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C735%20hrs%2046%20mins-blue)
 <!--SHOW_LINES_OF_CODE:waka-->
 - uses: anmol098/waka-readme-stats@master
   with:
