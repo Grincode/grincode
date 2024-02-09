@@ -86,7 +86,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://wakatime.com/share/@Gringodev/cbd7cb3b-c6ce-4a1a-815e-c47927e18518.svg">
+      <img src="https://wakatime.com/share/@Gringodev/cbd7cb3b-c6ce-4a1a-815e-c47927e18518.svg" alt="Drawing" style="width: 500px;">
     </td>
   </tr>
 </table>
