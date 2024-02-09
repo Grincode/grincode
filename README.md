@@ -1,5 +1,6 @@
 
-<img src="https://media.licdn.com/dms/image/D4D16AQElYxxUE74Xvg/profile-displaybackgroundimage-shrink_350_1400/0/1706134391484?e=1712793600&v=beta&t=Mljh_OBPcISF2982FEhB0ItKqf6Tif7X1EsY0qFgE6w">
+<p align=center><a href="https://github.com/Gringodev/Profile-Readme-WakaTime/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Gringodev/Profile-Readme-WakaTime" alt="License"></a> <a href="https://github.com/Gringodev/Profile-Readme-WakaTime/releases"><img src="https://img.shields.io/github/v/release/Gringodev/Profile-Readme-WakaTime" alt="Releases"></a> <a href="https://github.com/Gringodev/lark"><img src="https://img.shields.io/badge/uses-avinal%2Flark-blueviolet"></a> <img src="https://github.com/Grringodev/Gringodev/workflows/Build%20Graph/badge.svg" alt="Build"> <img src="https://wakatime.com/badge/github/Gringodev/Profile-Readme-WakaTime.svg" alt="Time Tracked"> <a href="https://github.com/Gringodev/Profile-Readme-WakaTime/discussions"><img src="https://img.shields.io/badge/QnA-Discussions-blueviolet"></a></p>
+
 <h1 align="left">Hi 👋, I'm Juan</h1>
 <h3 align="left">a full-stack web developer from Argentina</h3>
 <h4 align="left">- 🌱 I’m currently learning **Java and Node.js**</h4>
