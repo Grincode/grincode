@@ -73,32 +73,11 @@
 </table>
 
 ## My WakaTime Coding Activity
-<!--SHOW_DAYS_OF_WEEK:waka-->
+
 [![Grincode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8)](https://github.com/Gringodev/github-readme-stats)
 
 
-SHOW_LINES_OF_CODE
 
-<!--SHOW_DAYS_OF_WEEK:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C735%20hrs%2046%20mins-blue)
-<!--SHOW_LINES_OF_CODE:waka-->
-- uses: anmol098/waka-readme-stats@master
-  with:
-      WAKATIME_API_KEY: ${{ secrets.waka_67fca7d2-ca9d-4d48-a7e4-677e0af9da54 }}
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      SHOW_OS: "False"
-      SHOW_PROJECTS: "False"
-
-  **I'm an Early 🐤** 
-
-```text
-🌞 Morning    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
-🌆 Daytime    21 commits     ███████████░░░░░░░░░░░░░░   44.68% 
-🌃 Evening    22 commits     ███████████░░░░░░░░░░░░░░   46.81% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
-
-```
-<!--SHOW_LINES_OF_CODE:waka-->
 
 
 <h3 align="center">Connect with me:</h3>
