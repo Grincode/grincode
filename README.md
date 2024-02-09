@@ -76,7 +76,7 @@
 <!--SHOW_DAYS_OF_WEEK:waka-->
 [![Grincode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8)](https://github.com/Gringodev/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gringodev&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--SHOW_DAYS_OF_WEEK:waka-->
