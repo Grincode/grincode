@@ -72,9 +72,9 @@
 </table>
 
 <h3 align="center">My WakaTime Coding Activity<h3>
-<div align="center">
-[![Grincode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8)](https://github.com/Gringodev/github-readme-stats)
-</div>
+
+[![Grincode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8&align=center)](https://github.com/Gringodev/github-readme-stats)
+
 <table>
 <tr>
   <td>
