@@ -76,11 +76,13 @@
 
 [![Grincode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8)](https://github.com/Gringodev/github-readme-stats)
 
+<table>
 <tr>
   <td>
 <img src="https://wakatime.com/share/@Gringodev/b0174ab9-7858-4d76-be23-0e7795033eaa.svg" alt="Drawing" style="width: 500px;"></td>
 <td><img src="https://wakatime.com/share/@Gringodev/8d1af271-8969-48c7-9422-928efdae2da8.svg" alt="Drawing" style="width: 500px;"></td>
 </tr>
+</table>
 
 
 
