@@ -74,7 +74,7 @@
 
 ## My WakaTime Coding Activity
 
-<img src="https://github.com/Gringodev/Gringodev/blob/main/images/stat.svg" alt="Gringodev WakaTime Activity"/>
+<img src="https://github.com/Grincode/Grincode/blob/main/images/stat.svg" alt="Gringodev WakaTime Activity"/>
 
 <!--SHOW_DAYS_OF_WEEK:waka-->
 [![Grincode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8)](https://github.com/Gringodev/github-readme-stats)
