@@ -95,7 +95,7 @@
 </table>
 
 <h3 align="center">Connect with me:</h3>
-<p>Instagram <a href="https://www.instagram.com/gringo.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>
+<p>Gringo.dev <a href="https://www.instagram.com/gringo.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gringo.dev" height="30" width="40" /></a>
 </p>
 
 <p align="center">
