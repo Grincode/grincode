@@ -4,7 +4,7 @@
 <h4 align="left">- 🌱 I’m currently learning **Redux and Nextjs**</h4>
 
 <h4 align="left"> About</h4>
-<!--START_SECTION:data-->
+
 ```text
  { “name” : “Juan Castañar”,
    “role” : “Full Stack Web Dev | QA Automation”,
@@ -15,7 +15,7 @@
      }
  }
 ```
-<!--END_SECTION:data-->
+
 
 
 
