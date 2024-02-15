@@ -86,6 +86,9 @@
 </tr>
 </table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grincode)](https://github.com/grincode/github-readme-stats)
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
