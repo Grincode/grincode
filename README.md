@@ -5,7 +5,7 @@
 
 <h4 align="left"> About</h4>
 <!--START_SECTION:data-->
-```
+`
  { “name” : “Juan Castañar”,
    “role” : “Full Stack Web Dev | QA Automation”,
    “data” : 
@@ -14,7 +14,7 @@
       "IG"       : "https://www.instagram.com/gringo.dev"
      }
  }
-```
+`
 <!--END_SECTION:data-->
 
 
