@@ -94,11 +94,10 @@
 </tr>
 </table>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gringodev)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <h3 align="center">Connect with me:</h3>
+<p>Instagram <a href="https://www.instagram.com/gringo.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>
+</p>
+
 <p align="center">
 <a href="https://linkedin.com/in/juanpetarcich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanpetarcich" height="30" width="40" /></a>
 </p>
