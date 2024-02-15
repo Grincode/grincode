@@ -5,15 +5,15 @@
 
 <h4 align="left"> About</h4>
 
-```JSON
- { “name” : “Juan Castañar”,
- 	“role” : “Full Stack Web Dev | QA Automation”,
-	“data” :
-   		{
-   		"Linkedin" : "https://www.linkedin.com/in/vmorenoflores/",
-   		"IG"       : "https://www.instagram.com/veritechie"
-     		}
- }
+```plaintext
+{ 
+  "name": "Juan Castañar",
+  "role": "Full Stack Web Dev | QA Automation",
+  "data": {
+    "Linkedin": "https://www.linkedin.com/in/juanpetarcich/",
+    "IG": "https://www.instagram.com/gringo.dev"
+  }
+}
 ```
 
 
