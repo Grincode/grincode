@@ -73,10 +73,13 @@
 
 <h3 align="center">My WakaTime Coding Activity<h3><div align="center">
 <p align="center">
-<img src="https://wakatime.com/badge/user/018d9aa9-fee1-4b60-8354-84fc422a0a8d.svg" align="center">
+  <img src="https://wakatime.com/badge/user/018d9aa9-fee1-4b60-8354-84fc422a0a8d.svg" alt="Wakatime badge">
 </p>
+
 <p align="center">
-[![Grincode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8&align=center)](https://github.com/Grincode/github-readme-stats)
+  <a href="https://github.com/Grincode/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8" alt="Grincode's wakatime stats">
+  </a>
 </p>
 
 <table>
