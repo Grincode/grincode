@@ -6,12 +6,11 @@
 <h4 align="left"> About</h4>
 
 ```json
- { “Name” : “Verónica Moreno”,
-   “Role” : “Frontend Dev | MERN Stack”,
-   “Data” : 
+ { “name” : “Juan Petarcich”,
+   “role” : “Full Stack Web Dev | QA Automation”,
+   “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
-      "Resume"   : "https://veromoreno.github.io/",
       "IG"       : "https://www.instagram.com/veritechie"
      }
  }
