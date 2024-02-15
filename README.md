@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://github.com/Grincode/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8" alt="Grincode's wakatime stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=20" alt="Grincode's wakatime stats">
   </a>
 </p>
 
