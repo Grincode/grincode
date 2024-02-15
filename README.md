@@ -2,7 +2,18 @@
 
 <h1 align="left">Hi 👋, I'm Juan</h1>
 <h4 align="left">- 🌱 I’m currently learning **Redux and Nextjs**</h4>
+
 <h4 align="left"> About</h4>
+```
+ { “name” : “Juan Castañar”,
+   “role” : “Full Stack Web Dev | QA Automation”,
+   “data” : 
+     { 
+      "Linkedin" : "https://www.linkedin.com/in/juanpetarcich/", 
+      "IG"       : "https://www.instagram.com/gringo.dev"
+     }
+ }
+```
 
 
 
