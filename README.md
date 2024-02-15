@@ -5,7 +5,7 @@
 
 <h4 align="left"> About</h4>
 
-```json
+```JSON
  { “name” : “Juan Castañar”,
  	“role” : “Full Stack Web Dev | QA Automation”,
 	“data” :
