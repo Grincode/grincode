@@ -94,7 +94,6 @@
 </tr>
 </table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grincode&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="center">Connect with me:</h3>
