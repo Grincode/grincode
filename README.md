@@ -73,15 +73,15 @@
 
 <h3 align="center">My WakaTime Coding Activity<h3>
 
-[![Grincode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8&align=center)](https://github.com/Grincodev/github-readme-stats)
+[![Grincode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gringodev&show_icons=true&theme=ocean_dark&card_width=450em&langs_count=8&align=center)](https://github.com/Grincode/github-readme-stats)
 
 <table>
 <tr>
   <td>
 <img src="https://wakatime.com/share/@gringodev/564a5968-e9a0-4c11-ad62-c79a24c32dac.svg" alt="Drawing" style="width: 500px;"></img></td>
-<td valign="top"><img src="https://wakatime.com/share/@Gringodev/8d1af271-8969-48c7-9422-928efdae2da8.svg" alt="Drawing" style="width: 500px;"></td>
+<td valign="top"><img src="https://wakatime.com/share/@gringodev/5604819c-99de-445a-8d54-e029a0727880.svg" alt="Drawing" style="width: 500px;"></td>
       <td valign="top">
-      <img src="https://wakatime.com/share/@gringodev/cbd7cb3b-c6ce-4a1a-815e-c47927e18518.svg" alt="Drawing" style="width: 500px;">
+      <img src="https://wakatime.com/share/@gringodev/93db4733-ee4c-436d-8627-64173137e2d1.svg" alt="Drawing" style="width: 500px;">
     </td>
 </tr>
 </table>
