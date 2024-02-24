@@ -101,10 +101,10 @@
 <table>
 <tr>
   <td>
-<img src="https://wakatime.com/share/@gringodev/94c3d269-70c7-4c9b-b091-d68de2f0d11d.svg"></img></td>
-<td valign="top"><img src="https://wakatime.com/share/@gringodev/5604819c-99de-445a-8d54-e029a0727880.svg" alt="Drawing" style="width: 500px;"></td>
+<img src="https://wakatime.com/share/@gringodev/94c3d269-70c7-4c9b-b091-d68de2f0d11d.svg alt="Languages" style="width: 500px;"></img></td>
+<td valign="top"><img src="https://wakatime.com/share/@gringodev/5604819c-99de-445a-8d54-e029a0727880.svg" alt="Editors" style="width: 500px;"></td>
       <td valign="top">
-      <img src="https://wakatime.com/share/@gringodev/93db4733-ee4c-436d-8627-64173137e2d1.svg" alt="Drawing" style="width: 500px;">
+      <img src="https://wakatime.com/share/@gringodev/93db4733-ee4c-436d-8627-64173137e2d1.svg" alt="SO" style="width: 500px;">
     </td>
 </tr>
 </table>
