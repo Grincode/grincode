@@ -82,7 +82,7 @@
 <h3 align="left">Github Stats:<h3>
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grincode&theme=ocean_dark&card_width=450em)](https://github.com/grincode/grincode/github-readme-stats"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grincode&theme=ocean_dark&hide_border=true&card_width=450em)](https://github.com/grincode/grincode/github-readme-stats"/></td>
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=grincode&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=ocean_dark&hide_stars=false" /></td>
    </tr>
 </table>
@@ -94,7 +94,7 @@
 
 <p align="center">
   <a href="https://github.com/Grincode/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gringodev&show_icons=true&theme=ocean_dark&card_width=700em&langs_count=20" alt="Grincode's wakatime stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gringodev&show_icons=true&theme=ocean_dark&hide_border=true&card_width=700em&langs_count=20" alt="Grincode's wakatime stats">
   </a>
 </p>
 
