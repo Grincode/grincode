@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQElYxxUE74Xvg/profile-displaybackgroundimage-shrink_350_1400/0/1706134391484?e=1712793600&v=beta&t=Mljh_OBPcISF2982FEhB0ItKqf6Tif7X1EsY0qFgE6w">
 
 <h1 align="left">Hi 👋, I'm Juan</h1>
 <h4 align="left">- 🌱 I’m currently learning **Redux and Nextjs, GraphQL, CD & CI**</h4>
