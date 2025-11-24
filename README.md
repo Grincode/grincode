@@ -91,11 +91,9 @@
   
 <h3 align="left">IDE<h3>
  <p align="left">
-   <IMG SRC="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-   
+   <IMG SRC="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">   
     <IMG SRC="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-    <IMG SRC="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-      
+    <IMG SRC="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">      
   </p>
 
   <h3 align="left">TEXT EDITOR<h3>
