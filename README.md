@@ -29,17 +29,19 @@ Linux · Git · Neovim · IntelliJ · Figma · Jira · Notion · Vercel
   👉 E2E + unit testing
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=grincode&show_icons=true&theme=ocean_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grincode&layout=compact&theme=ocean_dark&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=grincode&show_icons=true&theme=ocean_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=grincode&layout=compact&theme=ocean_dark&hide_border=true" />
 </p>
+
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/018d9aa9-fee1-4b60-8354-84fc422a0a8d.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gringodev&theme=ocean_dark&hide_border=true&langs_count=5" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=gringodev&theme=ocean_dark&hide_border=true&langs_count=5" />
 </p>
+
 
 ### 🤝 Connect with me
 - 💼 [LinkedIn](https://linkedin.com/in/juanpetarcich)
