@@ -9,6 +9,12 @@ Full Stack Developer · Angular & Spring Boot · CI/CD · QA Automation
   />
 </p>
 
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=grincode&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=grincode&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=grincode&theme=summer">
+</picture>
+
 
 
 ### 👨‍💻 About Me
