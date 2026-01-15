@@ -3,7 +3,7 @@
 Full Stack Developer · Angular & Spring Boot · CI/CD · QA Automation
 </h3>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=grincode&show_icons=true&theme=ocean_dark&hide_border=true" />
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=crt" />
 </p>
 
 
