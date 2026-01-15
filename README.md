@@ -1,4 +1,4 @@
-<h1 align="center">Juan Castañar</h1>
+<h1 align="center">Juan Castañar Petarcich</h1>
 <h3 align="center">
 Full Stack Developer · Angular & Spring Boot · CI/CD · QA Automation
 </h3>
