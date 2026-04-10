@@ -1,14 +1,6 @@
 <h1 align="center">Juan Castañar Petarcich</h1>
 <h3 align="center">
 Full Stack Developer · Angular & Spring Boot · CI/CD · QA Automation
-</h3>
-<p align="center">
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=grincode&theme=blue_chill&screen_effect=true" />
-</p>
-
-
-
-
 
 ### 👨‍💻 About Me
 - 💼 Full Stack Web Developer & QA Automation  
